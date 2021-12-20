@@ -1,0 +1,8 @@
+{
+    "name": "Gratis-V-Bucks-Ps4-Codes/Gratis-V-Bucks-Ps4-Codes",
+    "description": "LINK BELOW FOR V BUCKS CODES >>> ",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
